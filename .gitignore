@@ -1,0 +1,8 @@
+# executables
+*.exe
+
+# object files
+*.o
+
+# temp/output
+output/
